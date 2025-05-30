@@ -1,7 +1,7 @@
 [![MasterHead](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA4MjMwMzUsIm5iZiI6MTc0MDgyMjczNSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzAxVDA5NTIxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAxZGE3NTZjNDYyMTU3OTNmNGEzMTc2NDc4YWE2NTE3ZGRhOTI5ODc0YjUxN2RhZDVjZDk5NzQ3YzEyM2ViNTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.le_vBZGlUu3ayg83XvTzW9pyxP3Sv8t8L2eOX-p64pM)](https://anasnihal.io)
 
 <h1 align="center">Hi 👋, I'm anasnihal</h1>
-<h3 align="center">A Focused Frontend Developer From India</h3>
+<h3 align="center">A Passionate Full Stack Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasnihal&label=Profile%20views&color=0e75b6&style=flat" alt="anasnihal" /> </p>
 
