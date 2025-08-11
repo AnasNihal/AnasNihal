@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/anasnihalx" target="blank"><img src="https://img.shields.io/twitter/follow/anasnihalx?logo=twitter&style=for-the-badge" alt="anasnihalx" /></a> </p>
 
-- 🔭 I’m currently working on **Web flow**
+- 🔭 I’m currently working on **SaaS Completion**
 
 - 🌱 I’m currently learning **Django,Python**
 
-- 💬 Ask me about **Android , Javascript**
+- 💬 Ask me about **Android , Python , Javascript**
 
 - 📫 How to reach me **anasnihal03@gmail.com**
 
