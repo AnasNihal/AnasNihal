@@ -13,9 +13,8 @@ Full Stack Developer with a passion for building real-world products. Experience
 [![Email](https://img.shields.io/badge/Email-anasnihal03@gmail.com-informational?style=flat&color=informational&logo=gmail)](mailto:anasnihal03@gmail.com)
 
 ## 💻 Interesting Projects
-
-[![Eco-connect](https://github-readme-stats.vercel.app/api/pin/?username=AnasNihal&repo=Eco-connect&theme=dark)](https://github.com/AnasNihal/Eco-connect)
-[![mation](https://github-readme-stats.vercel.app/api/pin/?username=AnasNihal&repo=mation&theme=dark)](https://github.com/AnasNihal/mation)
+[![Eco-connect](https://github-stats-extended.vercel.app/api/pin/?username=AnasNihal&repo=Eco-connect&theme=dark)](https://github.com/AnasNihal/Eco-connect)
+[![mation](https://github-stats-extended.vercel.app/api/pin/?username=AnasNihal&repo=mation&theme=dark)](https://github.com/AnasNihal/mation)
 
 ## 🛠️ Technologies & Tools
 
@@ -38,5 +37,4 @@ Full Stack Developer with a passion for building real-world products. Experience
 ![](https://img.shields.io/badge/Tool-Linux-informational?style=flat&color=warning&logo=linux)
 
 ## 📊 Statistics
-
-[![Anas's github stats](https://github-readme-stats.vercel.app/api?username=AnasNihal&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anas's github stats](https://github-stats-extended.vercel.app/api?username=AnasNihal&theme=dark&count_private=true)](https://github.com/stats-organization/github-stats-extended)
