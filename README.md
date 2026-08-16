@@ -14,8 +14,7 @@ Full Stack Developer with a passion for building real-world products. Experience
 
 ## 💻 Interesting Projects
 [![Eco-connect](https://github-stats-extended.vercel.app/api/pin/?username=AnasNihal&repo=Eco-connect&theme=dark)](https://github.com/AnasNihal/Eco-connect)
-[![mation](https://github-stats-extended.vercel.app/api/pin/?username=AnasNihal&repo=mation&theme=dark)](https://github.com/AnasNihal/mation)
-
+[![Matirial-ui](https://github-stats-extended.vercel.app/api/pin/?username=AnasNihal&repo=Matirial-ui&theme=dark)](https://github.com/AnasNihal/Matirial-ui)
 ## 🛠️ Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
