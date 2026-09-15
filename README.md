@@ -2,7 +2,7 @@
 
 ## 👋 Hello!
 
-Full Stack Developer with a passion for building real-world products. Experienced with web, mobile, and API development using JavaScript, Python, and modern frameworks. Currently exploring AI systems and machine learning. Always seeking to ship fast, learn faster, and build things that matter.
+Full Stack Developer and AI builder focused on creating real-world products, AI systems, and automation. I work with JavaScript and Python across web, mobile, APIs, and AI/ML, with a focus on building practical, reliable systems and shipping ideas into working products.
 
 ## 📲 Connect with me
 
