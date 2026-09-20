@@ -7,7 +7,7 @@ Full Stack Developer and AI builder focused on creating real-world products, AI 
 ## 📲 Connect with me
 
 [![Twitter](https://img.shields.io/badge/Twitter-@anasnihalx-informational?style=flat&color=informational&logo=twitter)](https://twitter.com/anasnihalx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anas--nihal-informational?style=flat&color=informational&logo=linkedin)](https://www.linkedin.com/in/anas-nihal-8772b1220/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anas%20Nihal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahammed-anas-nihal-8772b1220/)
 [![Instagram](https://img.shields.io/badge/Instagram-codelikeanss._-informational?style=flat&color=informational&logo=instagram)](https://www.instagram.com/codelikeanss._/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-anasnihal-informational?style=flat&color=informational&logo=dev.to)](https://dev.to/anasnihal)
 [![Email](https://img.shields.io/badge/Email-anasnihal03@gmail.com-informational?style=flat&color=informational&logo=gmail)](mailto:anasnihal03@gmail.com)
