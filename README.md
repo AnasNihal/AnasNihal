@@ -13,7 +13,7 @@ Full Stack Developer and AI builder focused on creating real-world products, AI 
 [![Email](https://img.shields.io/badge/Email-anasnihal03@gmail.com-informational?style=flat&color=informational&logo=gmail)](mailto:anasnihal03@gmail.com)
 
 ## 💻 Interesting Projects
-[![Eco-connect](https://github-stats-extended.vercel.app/api/pin/?username=AnasNihal&repo=Eco-connect&theme=dark)](https://github.com/AnasNihal/Eco-connect)
+[![Home Service](https://github-stats-extended.vercel.app/api/pin/?username=AnasNihal&repo=Home-client-worker&theme=dark)](https://github.com/AnasNihal/Home-client-worker)
 [![Matirial-ui](https://github-stats-extended.vercel.app/api/pin/?username=AnasNihal&repo=Matirial-ui&theme=dark)](https://github.com/AnasNihal/Matirial-ui)
 ## 🛠️ Technologies & Tools
 
